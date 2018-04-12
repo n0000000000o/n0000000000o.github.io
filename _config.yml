@@ -1,19 +1,18 @@
-# Site settings
-title: Panda2134's Blog
-SEOTitle: Panda2134's Blog
+﻿# Site settings
+title: n0000000000o's Blog
+SEOTitle: n0000000000o's Blog
 header-img: img/home-bg.jpg
-email: "ljypanda@live.com"
-description: "Panda2134's coding blog"
-keyword: "OI panda2134 coding"
-url: "https://panda2134.github.io"              # your host, for absolute URL
+email: "1120180945@qq.com"
+description: "博主很懒，什么都没有留下。。。"
+keyword: "Blog n0000000000o"
+url: "n0000000000o.github.io"              # your host, for absolute URL
 baseurl: ""                              # for example, '/blog' if your blog hosted on 'host/blog'
-author: "panda_2134"
+author: "n0000000000o"
 
 
 # SNS settings
 RSS: false
-github_username:    panda2134
-twitter_username:   ljypanda
+github_username:n0000000000o    
 
 
 
@@ -63,14 +62,14 @@ kramdown:
 
 # Gitment settings
 # disabled
-# gitment_username: panda2134
-# gitment_repo: panda2134.github.io
-# gitment_client_id: 9107291a3086ed30c48f
-# gitment_client_secret: aaa7ae9353eca07778c747e5641ffa81c5c24e8d
+# gitment_username: 
+# gitment_repo: 
+# gitment_client_id: 
+# gitment_client_secret: 
 
 # Valine settings
-valine_app_id: uNIHHlOyjHdeEuTxwk06ggwx-gzGzoHsz
-valine_app_key: QrVsjVtv5qeiy6UiGjOzdBPF
+valine_app_id: F1Y33rwBppVLEiqJ8zMQx5Yn-gzGzoHsz
+valine_app_key: Q74HdmucOS21HvnHA5s3Yn58
 valine_notify: true
 valine_verify: true
 
@@ -82,12 +81,12 @@ valine_verify: true
 # ga_track_id: 'UA-00000000-1'            # Format: UA-xxxxxx-xx
 # ga_domain: panda2134.github.io
 
-cnzz_track_id: 1273158321
+#cnzz_track_id: 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "但行好事，莫问前程。"
+sidebar-about-description: ""
 sidebar-avatar: /img/avatar.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -105,37 +104,4 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "chrt",
-        href: "https://chrt.github.io"
-    },
-    {
-      title: "Edgration",
-      href: "https://edgration.com"
-    },
-    {
-      title: "KSKun",
-      href: "https://ksmeow.moe"
-    },
-    {
-      title: "Anoxiacxy",
-      href: "https://anoxiacxy.github.io"
-    },
-    {
-      title: "zjp_shadow",
-      href: "http://cnblogs.com/zjp-shadow"
-    },
-    {
-      title: "nonamenotitle",
-      href: "http://nonamenotitle.pub"
-    },
-    {
-      title: "Barrin",
-      href: "http://barrin.top"
-    },
-    {
-      title: "Cansult",
-      href: "https://www.cansult.ga"
-    }
-]
+friends: []
