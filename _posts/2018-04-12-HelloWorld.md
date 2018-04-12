@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: false
+comments: true
 title: "Hello, world"
 tags: Life
 ---
