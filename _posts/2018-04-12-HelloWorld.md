@@ -7,3 +7,10 @@ tags: Life
 
 ## Hello, world
 this is the first post.
+
+## Newton's Law
+
+$$
+F = ma
+$$
+
