@@ -102,14 +102,16 @@ service-worker: true
 
 
 
+
+
 # Friends
 friends: [
-	{
-      	title: "Panda",
-     	href: "https://panda2134.tk"
-   	}，
-	{
+    {
         title: "chrt",
         href: "https://chrt.github.io"
-    	}
+    },
+    {
+      title: "Panda",
+      href: "https://panda2134.tk"
+    }
 ]
