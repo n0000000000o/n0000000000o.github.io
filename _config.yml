@@ -103,4 +103,13 @@ service-worker: true
 
 
 # Friends
-friends: []
+大佬: [
+	{
+      	title: "Panda",
+     	href: "https://panda2134.tk"
+   	}，
+	{
+        title: "chrt",
+        href: "https://chrt.github.io"
+    	}
+]
