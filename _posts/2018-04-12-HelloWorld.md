@@ -5,12 +5,20 @@ title: "Hello, world"
 tags: Life
 ---
 
-## Hello, world
+Hello, world
+
 this is the first post.
 
-## Newton's Law
+Newton's Law
+$$
+F = ma
+$$
 
-$$
-F = ma
-$$
+~~233~~
+
+##  这是蒟蒻第一篇题解
+
+
+
+
 
