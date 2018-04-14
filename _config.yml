@@ -113,5 +113,14 @@ friends: [
     {
       title: "Panda",
       href: "https://panda2134.tk"
+    },
+    {
+        title: "Spark",
+        href: "https://sparky.blog.luogu.org"
+    },
+    {
+        title: "Luogu Blog",
+        href: "https://www.luogu.org/blog/n0000000000o"
     }
+    
 ]
