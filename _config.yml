@@ -107,15 +107,15 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "chrt",
-        href: "https://chrt.github.io"
-    },
-    {
       title: "Panda",
       href: "https://panda2134.tk"
     },
     {
-        title: "Spark",
+        title: "chrt",
+        href: "https://chrt.github.io"
+    },
+    {
+        title: "Sparky",
         href: "https://sparky.blog.luogu.org"
     },
     {
