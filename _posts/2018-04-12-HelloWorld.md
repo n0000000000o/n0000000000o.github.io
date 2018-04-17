@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "Hello, world"
-tags: Life
+tags:  Life
 ---
 
 Hello, world
