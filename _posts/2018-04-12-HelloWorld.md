@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 comments: true
 title: "Hello, world"
 tags:  Life
