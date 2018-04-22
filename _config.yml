@@ -116,7 +116,7 @@ friends: [
     },
     {
         title: "Sparky ",
-        href: "https://sparky.blog.luogu.org"
+        href: "https://sparky-14145.github.io"
     },
     {
         title: "joooooosh_豪 ",
@@ -129,6 +129,10 @@ friends: [
     {
         title: "Luogu Blog",
         href: "https://www.luogu.org/blog/n0000000000o"
+    },
+    {
+        title: "August",
+        href: "http://www.w3school.com.cn/example/html/lastpage.html"
     }
 
 ]
